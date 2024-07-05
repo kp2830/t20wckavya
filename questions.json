@@ -1,0 +1,181 @@
+[
+  {
+    "question": "who is the highest scorer of t20 wc 2024?",
+    "choice1": "Rahmatullah Gurbaz",
+    "choice2": "Rohit Sharma",
+    "choice3": "Virat Kohli",
+    "choice4": "Travis Head",
+    "answer": 1
+  },
+  {
+    "question": "What is the highest wicket taker of t20 wc 2024?",
+    "choice1": "Arshdeep Singh",
+    "choice2": "Bumrah",
+    "choice3": "Fazalhaq Farooqi",
+    "choice4": "Rashid Khan",
+    "answer": 3
+  },
+  {
+    "question": "where was t20wc 2024 final held?",
+    "choice1": "johanessburg",
+    "choice2": "Brisbane",
+    "choice3": "Wankhade",
+    "choice4": "Barbados",
+    "answer": 4
+  },
+  {
+    "question": "who is the highest scorer of India in t20 2024 wc?",
+    "choice1": "Surya Kumar Yadav",
+    "choice2": "Rohit Sharma",
+    "choice3": "Virat Kohli",
+    "choice4": "Rishabh Pant",
+    "answer": 2
+  },
+  {
+    "question": "who is the highest scorer of t20 wc 2024 final?",
+    "choice1": "Henrich Klassen",
+    "choice2": "Rohit Sharma",
+    "choice3": "Virat Kohli",
+    "choice4": "Axar Patel",
+    "answer": 3
+  },
+  {
+    "question": "who is the Man of the match against pakistan in t20 wc 2024?",
+    "choice1": "Virat Kohli",
+    "choice2": "Rohit Sharma",
+    "choice3": "Jasprit Bumrah",
+    "choice4": "Mohmadd Rizwan",
+    "answer": 3
+  },
+  {
+    "question": "who is the man of the match of India vs England semi finals 2024?",
+    "choice1": "Jasprit Bumrah",
+    "choice2": "Rohit Sharma",
+    "choice3": "Virat Kohli",
+    "choice4": "Axar Patel",
+    "answer": 4
+  },
+
+  {
+    "question": "Which team won the first ICC T20 World Cup in 2007?",
+    "choice1": "Australia",
+    "choice2": "India",
+    "choice3": "Pakistan",
+    "choice4": "England",
+    "answer": 2
+  },
+  {
+    "question": "Who is the leading wicket-taker in T20 World Cup history?",
+    "choice1": "Shakib-al-Hasan",
+    "choice2": "Shahid Afridi",
+    "choice3": "Mitchell Starc",
+    "choice4": "Sunil Narine",
+    "answer": 1
+  },
+  {
+    "question": "Which player has scored the most runs in a single T20 World Cup tournament?",
+    "choice1": "Kevin Pietersen",
+    "choice2": "Mahela Jayawardene",
+    "choice3": "Virat Kohli",
+    "choice4": "Marlon Samuels",
+    "answer": 3
+  },
+  {
+    "question": "In which year did the ICC T20 World Cup tournament expand to include 16 teams?",
+    "choice1": "2010",
+    "choice2": "2012",
+    "choice3": "2014",
+    "choice4": "2016",
+    "answer": 3
+  },
+  {
+    "question": "Which country has hosted the ICC T20 World Cup the most number of times?",
+    "choice1": "Australia",
+    "choice2": "India",
+    "choice3": "England",
+    "choice4": "West Indies",
+    "answer": 2
+  },
+
+  {
+    "question": "Which player holds the record for the highest individual score in a T20 World Cup match?",
+    "choice1": "Chris Gayle",
+    "choice2": "Brendon McCullum",
+    "choice3": "Aaron Finch",
+    "choice4": "Shane Watson",
+    "answer": 1
+  },
+  {
+    "question": "Who hit the winning runs in the final of the ICC T20 World Cup 2016?",
+    "choice1": "Carlos Brathwaite",
+    "choice2": "Marlon Samuels",
+    "choice3": "Darren Sammy",
+    "choice4": "Andre Russell",
+    "answer": 1
+  },
+  {
+    "question": "Which team has appeared in the most T20 World Cup finals?",
+    "choice1": "India",
+    "choice2": "Australia",
+    "choice3": "England",
+    "choice4": "West Indies",
+    "answer": 4
+  },
+  {
+    "question": "Who was the captain of the Pakistan cricket team when they won the ICC T20 World Cup in 2009?",
+    "choice1": "Shahid Afridi",
+    "choice2": "Misbah-ul-Haq",
+    "choice3": "Younis Khan",
+    "choice4": "Sarfraz Ahmed",
+    "answer": 3
+  },
+  {
+    "question": "Which country won the ICC T20 World Cup Women's tournament in 2020?",
+    "choice1": "Australia",
+    "choice2": "India",
+    "choice3": "England",
+    "choice4": "South Africa",
+    "answer": 1
+  },
+
+  {
+    "question": "Who was the captain of the West Indies cricket team when they won the ICC T20 World Cup in 2012?",
+    "choice1": "Chris Gayle",
+    "choice2": "Dwayne Bravo",
+    "choice3": "Darren Sammy",
+    "choice4": "Kieron Pollard",
+    "answer": 3
+  },
+  {
+    "question": "Which player has taken the most catches in T20 World Cup history?",
+    "choice1": "AB de Villiers",
+    "choice2": "Shane Watson",
+    "choice3": "Ross Taylor",
+    "choice4": "Mahela Jayawardene",
+    "answer": 4
+  },
+  {
+    "question": "Who holds the record for the most sixes in a single T20 World Cup tournament?",
+    "choice1": "Chris Gayle",
+    "choice2": "Yuvraj Singh",
+    "choice3": "Eoin Morgan",
+    "choice4": "Brendon McCullum",
+    "answer": 1
+  },
+  {
+    "question": "Which city hosted the ICC T20 World Cup final in 2010?",
+    "choice1": "Mumbai",
+    "choice2": "Barbados",
+    "choice3": "Dhaka",
+    "choice4": "Colombo",
+    "answer": 2
+  },
+  {
+    "question": "Who was the leading wicket-taker for India in the ICC T20 World Cup 2020?",
+    "choice1": "Jasprit Bumrah",
+    "choice2": "Yuzvendra Chahal",
+    "choice3": "Ravindra Jadeja",
+    "choice4": "Mohammed Shami",
+    "answer": 2
+  }
+]
